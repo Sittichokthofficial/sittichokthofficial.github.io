@@ -1,6 +1,5 @@
 alert(`ประกาศ
-เว็บนี้ทำเพื่อส่ง Borntodev เท่านั้น และย้งสามารถไปพัฒนาต่อได้โดยมี Open Sourch ใน
-<a href="https://github.com/Sittichokthofficial/Garde-Program">Github</a>`);
+เว็บนี้ทำเพื่อส่ง Borntodev เท่านั้น และย้งสามารถไปพัฒนาต่อได้โดยมี Open Sourch ใน Github`);
 
 let Mathscroe = prompt("กรอกคะแนนวิชาคณิตศาสตร์")
 let EnglishScore = prompt("กรอกคะแนนวิชาอังกฤษ")
